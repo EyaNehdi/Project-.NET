@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnetProjet\\AM.UI.Console\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnetProjet\\AM.UI.Console\\AM.InfraStructure\\Migrations\\20250225110431_Conventions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AM.InfraStructure\\Migrations\\20250225110431_Conventions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7652F86-A99A-471B-B425-57FC90BCCEEA}|AM.InfraStructure\\AM.InfraStructure.csproj|d:\\dotnetprojet\\am.ui.console\\am.infrastructure\\amcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7652F86-A99A-471B-B425-57FC90BCCEEA}|AM.InfraStructure\\AM.InfraStructure.csproj|solutionrelative:am.infrastructure\\amcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7652F86-A99A-471B-B425-57FC90BCCEEA}|AM.InfraStructure\\AM.InfraStructure.csproj|d:\\dotnetprojet\\am.ui.console\\am.infrastructure\\configuration\\flightconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7652F86-A99A-471B-B425-57FC90BCCEEA}|AM.InfraStructure\\AM.InfraStructure.csproj|solutionrelative:am.infrastructure\\configuration\\flightconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9EA784-A243-41A4-A530-D9E3DDFA9B2A}|AM.ApplicationCore\\AM.ApplicationCore.csproj|d:\\dotnetprojet\\am.ui.console\\am.applicationcore\\domain\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9EA784-A243-41A4-A530-D9E3DDFA9B2A}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7652F86-A99A-471B-B425-57FC90BCCEEA}|AM.InfraStructure\\AM.InfraStructure.csproj|d:\\dotnetprojet\\am.ui.console\\am.infrastructure\\configuration\\planeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7652F86-A99A-471B-B425-57FC90BCCEEA}|AM.InfraStructure\\AM.InfraStructure.csproj|solutionrelative:am.infrastructure\\configuration\\planeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7652F86-A99A-471B-B425-57FC90BCCEEA}|AM.InfraStructure\\AM.InfraStructure.csproj|d:\\dotnetprojet\\am.ui.console\\am.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7652F86-A99A-471B-B425-57FC90BCCEEA}|AM.InfraStructure\\AM.InfraStructure.csproj|solutionrelative:am.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7652F86-A99A-471B-B425-57FC90BCCEEA}|AM.InfraStructure\\AM.InfraStructure.csproj|d:\\dotnetprojet\\am.ui.console\\am.infrastructure\\am.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B7652F86-A99A-471B-B425-57FC90BCCEEA}|AM.InfraStructure\\AM.InfraStructure.csproj|solutionrelative:am.infrastructure\\am.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9EA784-A243-41A4-A530-D9E3DDFA9B2A}|AM.ApplicationCore\\AM.ApplicationCore.csproj|d:\\dotnetprojet\\am.ui.console\\am.applicationcore\\domain\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9EA784-A243-41A4-A530-D9E3DDFA9B2A}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9EA784-A243-41A4-A530-D9E3DDFA9B2A}|AM.ApplicationCore\\AM.ApplicationCore.csproj|d:\\dotnetprojet\\am.ui.console\\am.applicationcore\\domain\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9EA784-A243-41A4-A530-D9E3DDFA9B2A}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnetProjet\\AM.UI.Console\\AM.InfraStructure\\Migrations\\20250225093618_Annotations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AM.InfraStructure\\Migrations\\20250225093618_Annotations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9EA784-A243-41A4-A530-D9E3DDFA9B2A}|AM.ApplicationCore\\AM.ApplicationCore.csproj|d:\\dotnetprojet\\am.ui.console\\am.applicationcore\\domain\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9EA784-A243-41A4-A530-D9E3DDFA9B2A}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AMContext.cs",
+              "DocumentMoniker": "D:\\dotnetProjet\\AM.UI.Console\\AM.InfraStructure\\AMContext.cs",
+              "RelativeDocumentMoniker": "AM.InfraStructure\\AMContext.cs",
+              "ToolTip": "D:\\dotnetProjet\\AM.UI.Console\\AM.InfraStructure\\AMContext.cs",
+              "RelativeToolTip": "AM.InfraStructure\\AMContext.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:25:29.721Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlightConfiguration.cs",
+              "DocumentMoniker": "D:\\dotnetProjet\\AM.UI.Console\\AM.InfraStructure\\Configuration\\FlightConfiguration.cs",
+              "RelativeDocumentMoniker": "AM.InfraStructure\\Configuration\\FlightConfiguration.cs",
+              "ToolTip": "D:\\dotnetProjet\\AM.UI.Console\\AM.InfraStructure\\Configuration\\FlightConfiguration.cs",
+              "RelativeToolTip": "AM.InfraStructure\\Configuration\\FlightConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:36:51.226Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250225110431_Conventions.cs",
+              "DocumentMoniker": "D:\\dotnetProjet\\AM.UI.Console\\AM.InfraStructure\\Migrations\\20250225110431_Conventions.cs",
+              "RelativeDocumentMoniker": "AM.InfraStructure\\Migrations\\20250225110431_Conventions.cs",
+              "ToolTip": "D:\\dotnetProjet\\AM.UI.Console\\AM.InfraStructure\\Migrations\\20250225110431_Conventions.cs",
+              "RelativeToolTip": "AM.InfraStructure\\Migrations\\20250225110431_Conventions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T11:04:31.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\dotnetProjet\\AM.UI.Console\\AM.InfraStructure\\Class1.cs",
+              "RelativeDocumentMoniker": "AM.InfraStructure\\Class1.cs",
+              "ToolTip": "D:\\dotnetProjet\\AM.UI.Console\\AM.InfraStructure\\Class1.cs",
+              "RelativeToolTip": "AM.InfraStructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:25:28.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlaneConfiguration.cs",
+              "DocumentMoniker": "D:\\dotnetProjet\\AM.UI.Console\\AM.InfraStructure\\Configuration\\PlaneConfiguration.cs",
+              "RelativeDocumentMoniker": "AM.InfraStructure\\Configuration\\PlaneConfiguration.cs",
+              "ToolTip": "D:\\dotnetProjet\\AM.UI.Console\\AM.InfraStructure\\Configuration\\PlaneConfiguration.cs",
+              "RelativeToolTip": "AM.InfraStructure\\Configuration\\PlaneConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:11:49.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AM.InfraStructure",
+              "DocumentMoniker": "D:\\dotnetProjet\\AM.UI.Console\\AM.InfraStructure\\AM.InfraStructure.csproj",
+              "RelativeDocumentMoniker": "AM.InfraStructure\\AM.InfraStructure.csproj",
+              "ToolTip": "D:\\dotnetProjet\\AM.UI.Console\\AM.InfraStructure\\AM.InfraStructure.csproj",
+              "RelativeToolTip": "AM.InfraStructure\\AM.InfraStructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-25T09:36:09.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250225093618_Annotations.cs",
+              "DocumentMoniker": "D:\\dotnetProjet\\AM.UI.Console\\AM.InfraStructure\\Migrations\\20250225093618_Annotations.cs",
+              "RelativeDocumentMoniker": "AM.InfraStructure\\Migrations\\20250225093618_Annotations.cs",
+              "ToolTip": "D:\\dotnetProjet\\AM.UI.Console\\AM.InfraStructure\\Migrations\\20250225093618_Annotations.cs",
+              "RelativeToolTip": "AM.InfraStructure\\Migrations\\20250225093618_Annotations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:36:18.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "D:\\dotnetProjet\\AM.UI.Console\\AM.ApplicationCore\\Domain\\Flight.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Flight.cs",
+              "ToolTip": "D:\\dotnetProjet\\AM.UI.Console\\AM.ApplicationCore\\Domain\\Flight.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Flight.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:01:03.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "D:\\dotnetProjet\\AM.UI.Console\\AM.ApplicationCore\\Domain\\Staff.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Staff.cs",
+              "ToolTip": "D:\\dotnetProjet\\AM.UI.Console\\AM.ApplicationCore\\Domain\\Staff.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:03:19.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Plane.cs",
+              "DocumentMoniker": "D:\\dotnetProjet\\AM.UI.Console\\AM.ApplicationCore\\Domain\\Plane.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Plane.cs",
+              "ToolTip": "D:\\dotnetProjet\\AM.UI.Console\\AM.ApplicationCore\\Domain\\Plane.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Plane.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwCsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:58:03.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Passenger.cs",
+              "DocumentMoniker": "D:\\dotnetProjet\\AM.UI.Console\\AM.ApplicationCore\\Domain\\Passenger.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Passenger.cs",
+              "ToolTip": "D:\\dotnetProjet\\AM.UI.Console\\AM.ApplicationCore\\Domain\\Passenger.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Passenger.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:45:52.209Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+D:\dotnetProjet\AM.UI.Console\AM.InfraStructure\bin\Debug\net8.0\AM.InfraStructure.deps.json
+D:\dotnetProjet\AM.UI.Console\AM.InfraStructure\bin\Debug\net8.0\AM.InfraStructure.runtimeconfig.json
+D:\dotnetProjet\AM.UI.Console\AM.InfraStructure\bin\Debug\net8.0\AM.InfraStructure.dll
+D:\dotnetProjet\AM.UI.Console\AM.InfraStructure\bin\Debug\net8.0\AM.InfraStructure.pdb
+D:\dotnetProjet\AM.UI.Console\AM.InfraStructure\bin\Debug\net8.0\AM.ApplicationCore.dll
+D:\dotnetProjet\AM.UI.Console\AM.InfraStructure\bin\Debug\net8.0\AM.ApplicationCore.pdb
+D:\dotnetProjet\AM.UI.Console\AM.InfraStructure\obj\Debug\net8.0\AM.InfraStructure.csproj.AssemblyReference.cache
+D:\dotnetProjet\AM.UI.Console\AM.InfraStructure\obj\Debug\net8.0\AM.InfraStructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetProjet\AM.UI.Console\AM.InfraStructure\obj\Debug\net8.0\AM.InfraStructure.AssemblyInfoInputs.cache
+D:\dotnetProjet\AM.UI.Console\AM.InfraStructure\obj\Debug\net8.0\AM.InfraStructure.AssemblyInfo.cs
+D:\dotnetProjet\AM.UI.Console\AM.InfraStructure\obj\Debug\net8.0\AM.InfraStructure.csproj.CoreCompileInputs.cache
+D:\dotnetProjet\AM.UI.Console\AM.InfraStructure\obj\Debug\net8.0\AM.Infra.6BDF7DD8.Up2Date
+D:\dotnetProjet\AM.UI.Console\AM.InfraStructure\obj\Debug\net8.0\AM.InfraStructure.dll
+D:\dotnetProjet\AM.UI.Console\AM.InfraStructure\obj\Debug\net8.0\refint\AM.InfraStructure.dll
+D:\dotnetProjet\AM.UI.Console\AM.InfraStructure\obj\Debug\net8.0\AM.InfraStructure.pdb
+D:\dotnetProjet\AM.UI.Console\AM.InfraStructure\obj\Debug\net8.0\AM.InfraStructure.genruntimeconfig.cache
+D:\dotnetProjet\AM.UI.Console\AM.InfraStructure\obj\Debug\net8.0\ref\AM.InfraStructure.dll
