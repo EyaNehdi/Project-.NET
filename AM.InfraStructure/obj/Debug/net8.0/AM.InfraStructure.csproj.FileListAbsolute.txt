@@ -15,3 +15,4 @@ D:\dotnetProjet\AM.UI.Console\AM.InfraStructure\obj\Debug\net8.0\refint\AM.Infra
 D:\dotnetProjet\AM.UI.Console\AM.InfraStructure\obj\Debug\net8.0\AM.InfraStructure.pdb
 D:\dotnetProjet\AM.UI.Console\AM.InfraStructure\obj\Debug\net8.0\AM.InfraStructure.genruntimeconfig.cache
 D:\dotnetProjet\AM.UI.Console\AM.InfraStructure\obj\Debug\net8.0\ref\AM.InfraStructure.dll
+D:\dotnetProjet\AM.UI.Console\AM.InfraStructure\obj\Debug\net8.0\AM.InfraStructure.sourcelink.json

@@ -14,36 +14,41 @@ namespace AM.ApplicationCore.Domain
         public DateTime BirthDate { get; set; }
         [EmailAddress]
         public String EmailAddress { get; set; }
-        [StringLength(25, MinimumLength = 3, ErrorMessage = "Name should be between 3 and 25 characters.")]
-        public String FirstName { get; set; }
-        //public int Id { get; set; }
-        public String LastName { get; set; }
+
+        public FullName FullName { get; set; } //appele de classe FullName
+
         [Key,StringLength(7)]
         public String PassportNumber { get; set; }
         [RegularExpression("^[0,9]{8}$")]
         public int TelNumber { get; set; }
         //prop de navigation
         public IList<Flight> Flights { get; set; }
+        //associations
+
+        public IList<ReservationTicket> ReservationTickets { get; set; }
+
+
+
         //methode toString()
         public override string ToString()
         {
-            return "Birthdate : "+BirthDate+"\n EmailAddress : "+EmailAddress+"\n FirstName : "+FirstName+
-                "\n "+"\n LastName : "+LastName+"\n PassportNumber : "+PassportNumber+"\n TelNumber : "+TelNumber;
+            return "Birthdate : "+BirthDate+"\n EmailAddress : "+EmailAddress+"\n FirstName : "+FullName.FirstName+
+                "\n "+"\n LastName : "+FullName.LastName+"\n PassportNumber : "+PassportNumber+"\n TelNumber : "+TelNumber;
         }
         //Polymorphisme
         public bool CheckProfile(String nom,String prenom)
         {
-            return nom == LastName && prenom == FirstName;
+            return nom == FullName.LastName && prenom == FullName.FirstName;
         }
         public bool CheckProfile(String nom, String prenom,String email)
         {
-            return nom == LastName && prenom == FirstName && email.Equals(EmailAddress);
+            return nom == FullName.LastName && prenom == FullName.FirstName && email.Equals(EmailAddress);
         }
         public bool CheckProfile1(String nom, String prenom, String email=null)
         { 
         if (email==null)
-                return nom == LastName && prenom == FirstName;
-            return nom == LastName && prenom == FirstName && email.Equals(EmailAddress);
+                return nom == FullName.LastName && prenom == FullName.FirstName;
+            return nom == FullName.LastName && prenom == FullName.FirstName && email.Equals(EmailAddress);
         }
         public virtual void PassengerType()
         {

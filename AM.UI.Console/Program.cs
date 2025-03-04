@@ -16,15 +16,21 @@ Plane p1 = new Plane
 Console.WriteLine(p1);
 Passenger p2 = new Passenger
 {
-    FirstName = "Eya",
-    LastName = "Nehdi",
+    FullName = new FullName
+    {
+        FirstName = "Eya",
+        LastName = "Nehdi"
+    }
 };
 Console.WriteLine("\n**********Test CheckProfile 1*******");
 Console.WriteLine(p2.CheckProfile("Nehdi","Eya"));
 Passenger p3 = new Passenger
 {
-    FirstName = "Eya",
-    LastName = "Nehdi",
+    FullName = new FullName
+    {
+        FirstName = "Eya",
+        LastName = "Nehdi"
+    },
     EmailAddress = "eya.nehdi@esprit.tn"
 };
 
@@ -34,13 +40,19 @@ Console.WriteLine(p3.CheckProfile("Nehdi", "Eya","eya.nehdi@esprit.tn"));
 p3.PassengerType();
 Staff s = new Staff
 {
-    FirstName = "Eya"
+    FullName = new FullName
+    {
+        FirstName = "Eya"
+    }
 };
 Console.WriteLine("\n**********Test passengertype staff*******");
 s.PassengerType();
 Traveller t = new Traveller
 {
-    FirstName="Nehdi"
+    FullName = new FullName
+    {
+        FirstName = "Nehdi"
+    }
 };
 Console.WriteLine("\n**********Test passengertype traveller*******");
 t.PassengerType();
@@ -72,4 +84,4 @@ Console.WriteLine("\n**********Test SeniorTravellers*******");
 Console.WriteLine("\n**********Test DestinationGroupedFlights*******");
 Console.WriteLine(fm.DestinationGroupedFlights());
 p2.UpperFullName();
-Console.WriteLine(p2.FirstName+" "+p2.LastName);
+Console.WriteLine(p2.FullName.FirstName+" "+p2.FullName.LastName);

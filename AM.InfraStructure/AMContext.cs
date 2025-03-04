@@ -36,6 +36,37 @@ namespace AM.InfraStructure
             //modelBuilder.Entity<Plane>().ToTable("MyPlanes");
             //modelBuilder.Entity<Plane>().Property(p => p.Capacity).HasColumnName("PlaneCapacity");
             modelBuilder.ApplyConfiguration(new FlightConfiguration());
+            // Configuration owned type ou type de tenue ( type complexe)
+            modelBuilder.Entity<Passenger>().OwnsOne(f => f.FullName, Full =>
+            {
+                Full.Property(f => f.FirstName).HasColumnName("PassFirstName").HasMaxLength(30);
+            });
+            modelBuilder.Entity<Passenger>().OwnsOne(f => f.FullName, Full =>
+            {
+                Full.Property(f => f.LastName).HasColumnName("PassLastName").IsRequired();
+            });
+
+            //Configuration TPH (table par hiéarchy)
+            //tout dans une seule table
+            //modelBuilder.Entity<Passenger>().HasDiscriminator<int>("PassengerType")
+            //    .HasValue<Passenger>(0)
+            //    .HasValue<Staff>(1)
+            //    .HasValue<Traveller>(2);
+
+
+            //Configutation TPT (table par type)
+            modelBuilder.Entity<Staff>().ToTable("Staffs");
+            modelBuilder.Entity<Traveller>().ToTable("Travellers");
+
+
+
+            //Configuration clé primaire composée
+            modelBuilder.Entity<ReservationTicket>().HasKey(fk => new
+            {
+                fk.TicketFK,
+                fk.PassengerFK,
+                fk.DateReservation
+            });
         }
         //4- Configure Convention
         protected override void ConfigureConventions(ModelConfigurationBuilder configurationBuilder)

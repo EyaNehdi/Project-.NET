@@ -116,3 +116,4 @@ D:\dotnetProjet\AM.UI.Console\AM.UI.Console\bin\Debug\net8.0\tr\Microsoft.CodeAn
 D:\dotnetProjet\AM.UI.Console\AM.UI.Console\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\dotnetProjet\AM.UI.Console\AM.UI.Console\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\dotnetProjet\AM.UI.Console\AM.UI.Console\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\dotnetProjet\AM.UI.Console\AM.UI.Console\obj\Debug\net8.0\AM.UI.Console.sourcelink.json
